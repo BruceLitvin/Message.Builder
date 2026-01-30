@@ -7,10 +7,7 @@ public MessageBuilder(String startingWord)
     message= startingWord;
 
 }
-public int num()
-    {
-        return numWords;
-    }
+
 //public String getNextWord(String s)
 //{ return null;}
 
